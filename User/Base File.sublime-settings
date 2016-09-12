@@ -1,0 +1,6 @@
+// 「=」以外でも動作させる
+// [特におすすめしたい、Sublime Textのパッケージ]
+// (http://www.buildinsider.net/small/sublimetext/03)
+{
+  "alignment_chars": ["=",":", ",", "&"],
+}

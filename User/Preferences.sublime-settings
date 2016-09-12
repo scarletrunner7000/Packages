@@ -1,0 +1,23 @@
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Myrica M",
+	"font_size": 16,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"LESS",
+		"PyV8",
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": false
+}

@@ -1,0 +1,34 @@
+*/
+.DS_Store
+!.gitignore
+
+
+# LaTeXTools
+
+!LaTeXTools/
+LaTeXTools/*
+!LaTeXTools/builders
+LaTeXTools/builders/*
+!LaTeXTools/builders/traditionalBuilder.py
+
+# MarkdownEditing
+
+!MarkdownEditing/
+
+# Table Editor
+
+!Table Editor/
+
+# User
+
+!User/
+*.cache
+*_tmp
+*~
+User/Package Control.ca-certs/
+User/Package Control.last-run
+User/Package Control.ca-list
+User/Package Control.ca-bundle
+User/Package Control.merged-ca-bundle
+User/Package Control.system-ca-bundle
+User/Package Control.user-ca-bundle
