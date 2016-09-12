@@ -1,0 +1,3 @@
+[submodule "sublime-jsdocs"]
+	path = sublime-jsdocs
+	url = https://github.com/scarletrunner7000/sublime-jsdocs.git
