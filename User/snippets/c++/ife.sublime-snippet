@@ -1,0 +1,14 @@
+<snippet>
+    <content>
+<![CDATA[
+if (${1:true}) {
+  $2
+} else {
+  $3
+}
+]]>
+    </content>
+    <tabTrigger>ife</tabTrigger>
+    <scope>source.c++</scope>
+    <description>if ... else ...</description>
+</snippet>

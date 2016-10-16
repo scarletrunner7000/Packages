@@ -1,7 +1,5 @@
 */
-.DS_Store
 !.gitignore
-*.crt
 
 
 # LaTeXTools
@@ -27,9 +25,8 @@ LaTeXTools/builders/*
 # User
 
 !User/
-*.cache
-*_tmp
-*~
+!User/**
+User/Package Control.cache/
 User/Package Control.ca-certs/
 User/Package Control.last-run
 User/Package Control.ca-list
@@ -37,3 +34,11 @@ User/Package Control.ca-bundle
 User/Package Control.merged-ca-bundle
 User/Package Control.system-ca-bundle
 User/Package Control.user-ca-bundle
+
+# ignore by extentions
+
+.DS_Store
+*.crt
+*.cache
+*_tmp
+*~
