@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+scanf("%s", ${1:s});
+]]>
+    </content>
+    <tabTrigger>scanfs</tabTrigger>
+    <scope>source.c++</scope>
+    <description>scanf("%s", s);</description>
+</snippet>

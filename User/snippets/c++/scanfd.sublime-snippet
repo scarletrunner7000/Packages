@@ -1,10 +1,10 @@
 <snippet>
     <content>
 <![CDATA[
-scanf("%d", &${1:N})
+scanf("%d", &${1:N});
 ]]>
     </content>
     <tabTrigger>scanfd</tabTrigger>
     <scope>source.c++</scope>
-    <description>scanf("%d", &amp;N)</description>
+    <description>scanf("%d", &amp;N);</description>
 </snippet>
