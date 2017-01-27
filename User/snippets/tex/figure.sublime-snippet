@@ -1,0 +1,16 @@
+<snippet>
+    <content>
+<![CDATA[
+\begin{figure}[htbp]
+  \begin{center}
+    \includegraphics[height=5cm]{white.eps}
+    \caption{white}
+    \label{fig:white}
+  \end{center}
+\end{figure}
+]]>
+    </content>
+    <tabTrigger>figure</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>figure</description>
+</snippet>

@@ -1,0 +1,21 @@
+<snippet>
+    <content>
+<![CDATA[
+\begin{table}
+  \begin{center}
+    \caption{white}
+    \label{tab:white}
+    \begin{tabular}{|l|l|l|}
+      \hline
+      A & B & C \\ \hline \hline
+      a & b & c \\ \hline
+      a & b & c \\ \hline
+    \end{tabular}
+  \end{center}
+\end{table}
+]]>
+    </content>
+    <tabTrigger>table</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>table</description>
+</snippet>
