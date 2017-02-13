@@ -35,9 +35,14 @@ User/Package Control.merged-ca-bundle
 User/Package Control.system-ca-bundle
 User/Package Control.user-ca-bundle
 
+# others
+
+/User/GoSublime/osx-x64/log.txt
+
 # ignore by extentions
 
 .DS_Store
+*.exe
 *.crt
 *.cache
 *_tmp
