@@ -2,6 +2,12 @@
 !.gitignore
 
 
+# GoSublime
+
+!GoSublime/
+GoSublime/*
+!GoSublime/*.sublime-settings
+
 # LaTeXTools
 
 !LaTeXTools/
