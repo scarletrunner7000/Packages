@@ -7,4 +7,5 @@
     "keys": ["super+shift+a"], "command": "align_tab",
     "args" : {"live_preview" : true}
   },
+  { "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
 ]
