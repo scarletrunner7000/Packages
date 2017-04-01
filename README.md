@@ -7,6 +7,6 @@
 にて
 
 ```bash
-git clone --recursive https://scarletrunner7000@bitbucket.org/scarletrunner7000/packages.git Packages
+git clone --recursive https://github.com/scarletrunner7000/Packages.git Packages
 
 ```
