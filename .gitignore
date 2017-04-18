@@ -28,6 +28,19 @@ LaTeXTools/builders/*
 
 !Table Editor/
 
+# OmniMarkupPreviewer
+
+!OmniMarkupPreviewer/
+OmniMarkupPreviewer/*
+!OmniMarkupPreviewer/OmniMarkupLib/
+OmniMarkupPreviewer/OmniMarkupLib/*
+!OmniMarkupPreviewer/OmniMarkupLib/Renderers/
+OmniMarkupPreviewer/OmniMarkupLib/Renderers/*
+!OmniMarkupPreviewer/OmniMarkupLib/Renderers/libs/
+OmniMarkupPreviewer/OmniMarkupLib/Renderers/libs/*
+!OmniMarkupPreviewer/OmniMarkupLib/Renderers/libs/mdx_strikeout.py
+
+
 # User
 
 !User/
